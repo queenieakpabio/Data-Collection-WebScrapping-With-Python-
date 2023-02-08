@@ -1,5 +1,5 @@
 ## Summary
-### [View NoteBook] (https://nbviewer.org/github/queenieakpabio/Data-Collection-WebScrapping-With-Python-/blob/My-Personal-Repository/_Webscrapping.ipynb)
+### [View NoteBook](https://nbviewer.org/github/queenieakpabio/Data-Collection-WebScrapping-With-Python-/blob/My-Personal-Repository/_Webscrapping.ipynb)
 
 ![WhatsApp Image 2023-02-06 at 15 32 52](https://user-images.githubusercontent.com/79636651/217230839-971ec9f3-91ce-4167-8bde-bb2b5c806f86.jpeg)
 
